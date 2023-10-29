@@ -1,0 +1,3 @@
+# example1.items = example1.items.filter(function (item) {
+return item.message.match(/Foo/)
+})

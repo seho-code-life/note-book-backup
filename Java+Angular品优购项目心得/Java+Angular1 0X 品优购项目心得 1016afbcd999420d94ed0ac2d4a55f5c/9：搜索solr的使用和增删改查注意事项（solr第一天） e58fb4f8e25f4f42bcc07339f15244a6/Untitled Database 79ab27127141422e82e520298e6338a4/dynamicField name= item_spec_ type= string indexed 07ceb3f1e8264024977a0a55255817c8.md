@@ -1,0 +1,1 @@
+# <dynamicField name="item_spec_*" type="string" indexed="true" stored="true" />

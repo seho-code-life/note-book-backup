@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "3943d38e8c33b0de",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1d12eb6164f85fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cde206096b39786",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "测试心得/测试/压力测试.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39537cdbede0f3dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b1d5238bed4b917",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83cc9a117a671008",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "55fdd0a9ead39bef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "55d79e18b809d283",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb961e5461e9aa7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "30487edb1b0c4ecb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02c39d8b264ed584",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "测试心得/测试/压力测试.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8e3fefe273504aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "测试心得/测试/压力测试.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e356e911641c9304",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ce60d9309c1b85a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "测试心得/测试/压力测试.md"
+              }
+            }
+          },
+          {
+            "id": "6955c396ad86ddf9",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "copilot:Copilot Chat": false
+    }
+  },
+  "active": "0cde206096b39786",
+  "lastOpenFiles": [
+    "测试心得/测试.md",
+    "Rust心得/Rust心得 bd88bdea02c24a919eafe16a5966f6c5/语言概览 2a96c4f4fac24eacb0326d5ed6324486.md",
+    "Java+Angular品优购项目心得/Java+Angular1 0X 品优购项目心得.md",
+    "Rust心得/Rust心得.md",
+    "未命名.canvas",
+    "Oracle 心得.md",
+    "Mysql 心得.md",
+    "HTTP.md",
+    "Ruby on Rails心得/Ruby on Rails心得.md",
+    "数据结构与算法/数据结构与算法.md",
+    "设计/设计.md",
+    "每日练习 前端强化训练题/每日练习 前端强化训练题 88a072290fd740679f409b29c577c3e0/5周总结 414666c9a72b4bb39c71e72d7c61964c.md",
+    "每日练习 前端强化训练题/每日练习 前端强化训练题.md",
+    "计算机网络心得/计算机网络.md",
+    "极客时间：重学前端专栏/《极客时间：重学前端专栏》心得.md",
+    "测试心得/测试/压力测试.md",
+    "React心得/React 心得.md",
+    "React心得/React 心得 f3ce7ac88ddb4c759ed76b9f063d91ec/setState源码解析 10e00582341e4bba926f6ef5182dbfe6.md",
+    "React心得/React 心得 f3ce7ac88ddb4c759ed76b9f063d91ec/react-hook 笔记 e3a9b377f53749a7b478432bc8738c4c.md",
+    "React心得/React 心得 f3ce7ac88ddb4c759ed76b9f063d91ec/setState源码解析 10e00582341e4bba926f6ef5182dbfe6/_20201014174809.png",
+    "JAVA心得/Java 心得 （可以用来快速复习，偶尔更新中） 22d8fd7423434bcd866a5ed1f03e7741/JAVA集合转字符串 4de7f07b60b14e83be1e9dcb5f2f6318.md",
+    "JAVA心得/Java 心得 （可以用来快速复习，偶尔更新中） 22d8fd7423434bcd866a5ed1f03e7741.md",
+    "JAVA心得/Java 心得 （可以用来快速复习，偶尔更新中） 22d8fd7423434bcd866a5ed1f03e7741/IO流基础：输入和输出（1） 8955692d16a143f0866df445e7363d43.md"
+  ]
+}
